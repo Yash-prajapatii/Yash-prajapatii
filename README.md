@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Yash-prajapatii/Yash-prajapatii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing my BE.CSE degree from SATHYABAMA UNIVERSITY
+- 🌱 I’m currently learning PYTHON
+- 📫 How to reach me: yashkprajapati1414@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: can flirt anytime
+--> 
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yash-prajapatii&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-prajapatii&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yash-prajapatii&layout=compact)](https://github.com/Yash-prajapatii/github-readme-stats)
