@@ -7,7 +7,7 @@
 - ⚡ Fun fact: can flirt anytime
 --> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yash-prajapatii&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yash-prajapatii&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yash-prajapatii&show_icons=true&theme=radical)
 
